@@ -1,5 +1,4 @@
 # Actividad-Integradora
-### Parte 1. Sistemas multiagentes:
 ### Parte 2. Gráficas Computacionales:
 Tanto la iluminación, la animación, las texturas, materiales y modelos pueden apreciarse en la escena, la caja solo es un ejemplo de ellas.
 - Modelos con materiales (colores) y texturas (usando mapeo UV):
