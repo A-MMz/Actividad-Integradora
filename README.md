@@ -13,6 +13,8 @@ Evidencia de ello es esta imagen, en ella se ve el modelo de la caja contruida c
 
 Ejemplo de ejecuacion final:
 
-
+<p align="center">
+  <img src="https://github.com/AbrahamMMz/Actividad-Integradora/blob/main/evidencia.gif" />
+</p>
 
 
