@@ -11,7 +11,7 @@ Evidencia de ello es esta imagen, en ella se ve el modelo de la caja contruida c
   <img src="https://github.com/AbrahamMMz/Actividad-Integradora/blob/main/cajaAbraham.png" />
 </p>
 
-Ejemplo de ejecuacion final:
+Ejemplo de ejecucion final:
 
 <p align="center">
   <img src="https://github.com/AbrahamMMz/Actividad-Integradora/blob/main/evidencia.gif" />
