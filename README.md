@@ -7,7 +7,7 @@ Tanto la iluminación, la animación, las texturas, materiales y modelos pueden 
 
 Evidencia de ello es esta imagen, en ella se ve el modelo de la caja contruida con *probuilder* con su respectiva textura hecha material.
 <p align="center">
-  <img src="https://github.com/AbrahamMMz/Actividad-Integradora/blob/main/cajaAbraham.png" />
+  <img src="https://github.com/AbrahamMMz/Actividad-Integradora/blob/main/cajaAbraham2.png" />
 </p>
 
 Ejemplo de ejecucion final:
