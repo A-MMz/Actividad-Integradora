@@ -22,4 +22,6 @@ Ejemplo de ejecucion final:
   <img src="https://github.com/AbrahamMMz/Actividad-Integradora/blob/main/evidencia.gif" />
 </p>
 
+## Como correlo:
+Bajar el repositorio, descomprimir los *.zip*, importar el unitypackage a unity, correr el archivo **tc2008B_server.py**.
 
